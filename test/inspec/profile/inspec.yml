@@ -1,0 +1,11 @@
+name: Test supported VPC resources
+
+inspec_version: '>= 4.30'
+license: MIT-0
+version: 1.0
+
+depends:
+  - name: inspec-aws
+    url: https://github.com/inspec/inspec-aws/archive/v1.49.12.tar.gz
+supports:
+  - platform: aws

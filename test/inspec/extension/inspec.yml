@@ -1,0 +1,5 @@
+name: Test unsupported VPC resources
+
+inspec_version: '>= 4.30'
+license: MIT-0
+version: 1.0
